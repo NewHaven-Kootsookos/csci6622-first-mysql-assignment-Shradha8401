@@ -1,2 +1,2 @@
 use northwind;
-SELECT * FROM category;
+SELECT * FROM CATEGORY;
